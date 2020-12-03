@@ -23,7 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c63a1ac-3b39-4ca2-ae47-f5b70fd91038" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/basics/BigLettersMISP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/basics/FightSong.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +58,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../JavaF/Home.Class.Work" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.BigLettersMISP">
+  <component name="RunManager" selected="Application.FightSong">
     <configuration name="BigLettersMISP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.tekwill.learning.basics.BigLettersMISP" />
       <module name="tekwill-homework" />
@@ -66,15 +66,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ChairTablePrinter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tekwill.learning.basics.ChairTablePrinter" />
+    <configuration name="FavoriteMovieQuote" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tekwill.learning.basics.FavoriteMovieQuote" />
       <module name="tekwill-homework" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FavoriteMovieQuote" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tekwill.learning.basics.FavoriteMovieQuote" />
+    <configuration name="FightSong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tekwill.learning.basics.FightSong" />
       <module name="tekwill-homework" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -96,19 +96,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ChairTablePrinter" />
       <item itemvalue="Application.FavoriteMovieQuote" />
       <item itemvalue="Application.ShapePrinter" />
       <item itemvalue="Application.StringSoutLines" />
       <item itemvalue="Application.BigLettersMISP" />
+      <item itemvalue="Application.FightSong" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FightSong" />
         <item itemvalue="Application.BigLettersMISP" />
         <item itemvalue="Application.StringSoutLines" />
         <item itemvalue="Application.ShapePrinter" />
         <item itemvalue="Application.FavoriteMovieQuote" />
-        <item itemvalue="Application.ChairTablePrinter" />
       </list>
     </recent_temporary>
   </component>
@@ -128,7 +128,8 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <MESSAGE value="ChairTablePrinter&#10;FavoriteMovieQuote&#10;ShapePrinter&#10;StringSoutLines" />
-    <option name="LAST_COMMIT_MESSAGE" value="ChairTablePrinter&#10;FavoriteMovieQuote&#10;ShapePrinter&#10;StringSoutLines" />
+    <MESSAGE value="ChairTablePrinter&#10;FavoriteMovieQuote&#10;ShapePrinter&#10;StringSoutLines&#10;BigLettersMISP" />
+    <option name="LAST_COMMIT_MESSAGE" value="ChairTablePrinter&#10;FavoriteMovieQuote&#10;ShapePrinter&#10;StringSoutLines&#10;BigLettersMISP" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
