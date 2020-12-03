@@ -23,10 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c63a1ac-3b39-4ca2-ae47-f5b70fd91038" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/basics/ChairTablePrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/basics/FavoriteMovieQuote.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/basics/ShapePrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/basics/StringSoutLines.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/basics/BigLettersMISP.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +58,14 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../JavaF/Home.Class.Work" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.StringSoutLines">
+  <component name="RunManager" selected="Application.BigLettersMISP">
+    <configuration name="BigLettersMISP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tekwill.learning.basics.BigLettersMISP" />
+      <module name="tekwill-homework" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ChairTablePrinter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.tekwill.learning.basics.ChairTablePrinter" />
       <module name="tekwill-homework" />
@@ -96,9 +100,11 @@
       <item itemvalue="Application.FavoriteMovieQuote" />
       <item itemvalue="Application.ShapePrinter" />
       <item itemvalue="Application.StringSoutLines" />
+      <item itemvalue="Application.BigLettersMISP" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BigLettersMISP" />
         <item itemvalue="Application.StringSoutLines" />
         <item itemvalue="Application.ShapePrinter" />
         <item itemvalue="Application.FavoriteMovieQuote" />
@@ -119,50 +125,11 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="254" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606774820827">
-      <screen x="0" y="0" width="1600" height="870" />
-    </state>
-    <state x="254" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.870@0.0.1600.870" timestamp="1606774820827" />
-    <state x="417" y="3" key="CommitChangelistDialog2" timestamp="1606776034215">
-      <screen x="0" y="0" width="1600" height="870" />
-    </state>
-    <state x="417" y="3" key="CommitChangelistDialog2/0.0.1600.870@0.0.1600.870" timestamp="1606776034215" />
-    <state x="580" y="190" key="FileChooserDialogImpl" timestamp="1606773550078">
-      <screen x="0" y="0" width="1600" height="870" />
-    </state>
-    <state x="580" y="190" key="FileChooserDialogImpl/0.0.1600.870@0.0.1600.870" timestamp="1606773550078" />
-    <state width="880" height="226" key="GridCell.Tab.0.bottom" timestamp="1606775950219">
-      <screen x="0" y="0" width="1600" height="870" />
-    </state>
-    <state width="880" height="226" key="GridCell.Tab.0.bottom/0.0.1600.870@0.0.1600.870" timestamp="1606775950219" />
-    <state width="880" height="226" key="GridCell.Tab.0.center" timestamp="1606775950218">
-      <screen x="0" y="0" width="1600" height="870" />
-    </state>
-    <state width="880" height="226" key="GridCell.Tab.0.center/0.0.1600.870@0.0.1600.870" timestamp="1606775950218" />
-    <state width="880" height="226" key="GridCell.Tab.0.left" timestamp="1606775950218">
-      <screen x="0" y="0" width="1600" height="870" />
-    </state>
-    <state width="880" height="226" key="GridCell.Tab.0.left/0.0.1600.870@0.0.1600.870" timestamp="1606775950218" />
-    <state width="880" height="226" key="GridCell.Tab.0.right" timestamp="1606775950219">
-      <screen x="0" y="0" width="1600" height="870" />
-    </state>
-    <state width="880" height="226" key="GridCell.Tab.0.right/0.0.1600.870@0.0.1600.870" timestamp="1606775950219" />
-    <state x="250" y="77" key="SettingsEditor" timestamp="1606764512821">
-      <screen x="0" y="0" width="1600" height="870" />
-    </state>
-    <state x="250" y="77" key="SettingsEditor/0.0.1600.870@0.0.1600.870" timestamp="1606764512821" />
-    <state x="913" y="384" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606775959857">
-      <screen x="0" y="0" width="1600" height="870" />
-    </state>
-    <state x="913" y="384" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.870@0.0.1600.870" timestamp="1606775959857" />
-    <state x="796" y="217" key="refactoring.ChangeSignatureDialog" timestamp="1606775439660">
-      <screen x="0" y="0" width="1600" height="870" />
-    </state>
-    <state x="796" y="217" key="refactoring.ChangeSignatureDialog/0.0.1600.870@0.0.1600.870" timestamp="1606775439660" />
-    <state x="463" y="182" width="672" height="678" key="search.everywhere.popup" timestamp="1606764540535">
-      <screen x="0" y="0" width="1600" height="870" />
-    </state>
-    <state x="463" y="182" width="672" height="678" key="search.everywhere.popup/0.0.1600.870@0.0.1600.870" timestamp="1606764540535" />
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <MESSAGE value="ChairTablePrinter&#10;FavoriteMovieQuote&#10;ShapePrinter&#10;StringSoutLines" />
+    <option name="LAST_COMMIT_MESSAGE" value="ChairTablePrinter&#10;FavoriteMovieQuote&#10;ShapePrinter&#10;StringSoutLines" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
