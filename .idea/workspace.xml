@@ -23,7 +23,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c63a1ac-3b39-4ca2-ae47-f5b70fd91038" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/basics/FightSong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/basics/LarnTerns.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/basics/modifiers/software/Developer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/basics/modifiers/software/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/basics/modifiers/software/Meeting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/basics/modifiers/testing/Documentation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/basics/modifiers/testing/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/basics/nonaccessmodifiers/cooking/Recipe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/basics/nonaccessmodifiers/cooking/RecipeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/basics/nonaccessmodifiers/kingdom/Knight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/basics/nonaccessmodifiers/kingdom/KnightDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,19 +64,13 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../JavaF/Home.Class.Work" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.FightSong">
+  <component name="RunManager" selected="Application.KnightDemo">
     <configuration name="BigLettersMISP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.tekwill.learning.basics.BigLettersMISP" />
-      <module name="tekwill-homework" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FavoriteMovieQuote" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tekwill.learning.basics.FavoriteMovieQuote" />
       <module name="tekwill-homework" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -80,10 +83,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShapePrinter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tekwill.learning.basics.ShapePrinter" />
+    <configuration name="KnightDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tekwill.learning.basics.nonaccessmodifiers.kingdom.KnightDemo" />
       <module name="tekwill-homework" />
-      <option name="PROGRAM_PARAMETERS" value=" \ /" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LarnTerns" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tekwill.learning.basics.LarnTerns" />
+      <module name="tekwill-homework" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -96,19 +105,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.FavoriteMovieQuote" />
-      <item itemvalue="Application.ShapePrinter" />
       <item itemvalue="Application.StringSoutLines" />
       <item itemvalue="Application.BigLettersMISP" />
       <item itemvalue="Application.FightSong" />
+      <item itemvalue="Application.LarnTerns" />
+      <item itemvalue="Application.KnightDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.KnightDemo" />
+        <item itemvalue="Application.LarnTerns" />
         <item itemvalue="Application.FightSong" />
         <item itemvalue="Application.BigLettersMISP" />
         <item itemvalue="Application.StringSoutLines" />
-        <item itemvalue="Application.ShapePrinter" />
-        <item itemvalue="Application.FavoriteMovieQuote" />
       </list>
     </recent_temporary>
   </component>
@@ -129,7 +138,8 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <MESSAGE value="ChairTablePrinter&#10;FavoriteMovieQuote&#10;ShapePrinter&#10;StringSoutLines" />
     <MESSAGE value="ChairTablePrinter&#10;FavoriteMovieQuote&#10;ShapePrinter&#10;StringSoutLines&#10;BigLettersMISP" />
-    <option name="LAST_COMMIT_MESSAGE" value="ChairTablePrinter&#10;FavoriteMovieQuote&#10;ShapePrinter&#10;StringSoutLines&#10;BigLettersMISP" />
+    <MESSAGE value="ChairTablePrinter&#10;FavoriteMovieQuote&#10;ShapePrinter&#10;StringSoutLines&#10;BigLettersMISP&#10;FightSong" />
+    <option name="LAST_COMMIT_MESSAGE" value="ChairTablePrinter&#10;FavoriteMovieQuote&#10;ShapePrinter&#10;StringSoutLines&#10;BigLettersMISP&#10;FightSong" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
