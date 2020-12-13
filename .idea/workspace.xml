@@ -29,8 +29,6 @@
       <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/basics/modifiers/software/Meeting.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/basics/modifiers/testing/Documentation.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/basics/modifiers/testing/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/basics/nonaccessmodifiers/cooking/Recipe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/basics/nonaccessmodifiers/cooking/RecipeDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +64,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.RecipeDemo">
+  <component name="RunManager" selected="Application.LarnTerns">
     <configuration name="BigLettersMISP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.tekwill.learning.basics.BigLettersMISP" />
       <module name="tekwill-homework" />
@@ -111,9 +109,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LarnTerns" />
         <item itemvalue="Application.RecipeDemo" />
         <item itemvalue="Application.KnightDemo" />
-        <item itemvalue="Application.LarnTerns" />
         <item itemvalue="Application.FightSong" />
         <item itemvalue="Application.BigLettersMISP" />
       </list>
@@ -138,7 +136,8 @@
     <MESSAGE value="ChairTablePrinter&#10;FavoriteMovieQuote&#10;ShapePrinter&#10;StringSoutLines&#10;BigLettersMISP" />
     <MESSAGE value="ChairTablePrinter&#10;FavoriteMovieQuote&#10;ShapePrinter&#10;StringSoutLines&#10;BigLettersMISP&#10;FightSong" />
     <MESSAGE value="kingdom" />
-    <option name="LAST_COMMIT_MESSAGE" value="kingdom" />
+    <MESSAGE value="recipe" />
+    <option name="LAST_COMMIT_MESSAGE" value="recipe" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
