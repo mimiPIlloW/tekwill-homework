@@ -31,7 +31,6 @@
       <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/datatypes/Statistics.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/io/reading/KeyboardReaderWhatIsScanner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tekwill/learning/basics/datatypes/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tekwill/learning/datatypes/Constants.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +75,7 @@
       <recent name="com.tekwill.learning.basics.datatypes" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.KeyboardReaderWhatIsScanner">
+  <component name="RunManager" selected="Application.Statistics">
     <configuration name="Constants" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.tekwill.learning.datatypes.Constants" />
       <module name="tekwill-homework" />
@@ -121,9 +120,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Statistics" />
         <item itemvalue="Application.KeyboardReaderWhatIsScanner" />
         <item itemvalue="Application.Constants" />
-        <item itemvalue="Application.Statistics" />
         <item itemvalue="Application.LarnTerns" />
         <item itemvalue="Application.RecipeDemo" />
       </list>
