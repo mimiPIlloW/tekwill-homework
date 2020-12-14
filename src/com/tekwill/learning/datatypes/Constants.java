@@ -1,4 +1,4 @@
-package com.tekwill.learning.basics.datatypes;
+package com.tekwill.learning.datatypes;
 
 public class Constants {
     private final double pi;
