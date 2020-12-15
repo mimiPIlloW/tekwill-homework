@@ -29,8 +29,9 @@
       <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/basics/modifiers/testing/Documentation.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/basics/modifiers/testing/Tester.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/datatypes/Statistics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/io/reading/KeyboardReaderWhatIsScanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/testing/Testing.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tekwill/learning/datatypes/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tekwill/learning/datatypes/Constants.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +76,14 @@
       <recent name="com.tekwill.learning.basics.datatypes" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Statistics">
+  <component name="RunManager" selected="Application.Testing">
+    <configuration name="ConsolePrinter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tekwill.learning.io.writing.ConsolePrinter" />
+      <module name="tekwill-homework" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Constants" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.tekwill.learning.datatypes.Constants" />
       <module name="tekwill-homework" />
@@ -90,20 +98,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LarnTerns" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tekwill.learning.basics.LarnTerns" />
-      <module name="tekwill-homework" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RecipeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tekwill.learning.basics.nonaccessmodifiers.cooking.RecipeDemo" />
-      <module name="tekwill-homework" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Statistics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.tekwill.learning.datatypes.Statistics" />
       <module name="tekwill-homework" />
@@ -111,20 +105,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Testing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tekwill.learning.testing.Testing" />
+      <module name="tekwill-homework" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.LarnTerns" />
-      <item itemvalue="Application.RecipeDemo" />
       <item itemvalue="Application.Statistics" />
       <item itemvalue="Application.Constants" />
       <item itemvalue="Application.KeyboardReaderWhatIsScanner" />
+      <item itemvalue="Application.ConsolePrinter" />
+      <item itemvalue="Application.Testing" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Testing" />
+        <item itemvalue="Application.Constants" />
+        <item itemvalue="Application.ConsolePrinter" />
         <item itemvalue="Application.Statistics" />
         <item itemvalue="Application.KeyboardReaderWhatIsScanner" />
-        <item itemvalue="Application.Constants" />
-        <item itemvalue="Application.LarnTerns" />
-        <item itemvalue="Application.RecipeDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -151,7 +152,8 @@
     <MESSAGE value="House of stars and sticks" />
     <MESSAGE value="Constants Ready" />
     <MESSAGE value="Constants" />
-    <option name="LAST_COMMIT_MESSAGE" value="Constants" />
+    <MESSAGE value="Scanner&amp;Printer" />
+    <option name="LAST_COMMIT_MESSAGE" value="Scanner&amp;Printer" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>

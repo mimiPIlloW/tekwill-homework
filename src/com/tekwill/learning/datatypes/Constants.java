@@ -18,7 +18,7 @@ public class Constants {
         Constants coConstants = new Constants(3.141592653589793238462643, 2.718281828459045235360287);
         coConstants.squareRootOf2 = 1.414213562373095048801688;
         coConstants.fiEqualis = 1.618033988749894848204586;
-        int zero = 0;
+        short zero = 0;
         int one = 1;
         int two = 2;
         System.out.println(zero + " (zero)");
@@ -27,7 +27,7 @@ public class Constants {
         System.out.printf("e,approximately equal to %.24f%n", Math.E); //doesn't show after 45
         System.out.println("i,the imaginary unit such that i²=-1");
         System.out.println(coConstants.V2 + "2(square root of 2),the lenght of the diagonal of a square with unit side," +
-                "approximately equal to" + coConstants.squareRootOf2);
+                "approximately equal to " + coConstants.squareRootOf2);
         System.out.println(coConstants.fi + "(golden ratio),approximately equal to" + coConstants.fiEqualis + ", or" +
                 "algebraically," + one + "+" + coConstants.V2 + "5/" + two);
 
