@@ -22,16 +22,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c63a1ac-3b39-4ca2-ae47-f5b70fd91038" name="Default Changelist" comment="House of stars and sticks">
-      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/basics/modifiers/software/Developer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/basics/modifiers/software/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/basics/modifiers/software/Meeting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/basics/modifiers/testing/Documentation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/basics/modifiers/testing/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/datatypes/Statistics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/testing/Testing.java" afterDir="false" />
+    <list default="true" id="1c63a1ac-3b39-4ca2-ae47-f5b70fd91038" name="Default Changelist" comment="Statistic is fun">
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/io/StatisticsPrompter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/io/TableFromPrintf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/testing/StatisticsHolderDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tekwill/learning/datatypes/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tekwill/learning/datatypes/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tekwill/learning/datatypes/Statistics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tekwill/learning/datatypes/Statistics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tekwill/learning/testing/Testing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tekwill/learning/testing/Testing.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,18 +62,19 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Head_First_Java/Head_First_Java" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.tekwill.learning.testing" />
       <recent name="com.tekwill.learning.basics.datatypes" />
     </key>
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="com.tekwill.learning.basics.datatypes" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Testing">
+  <component name="RunManager" selected="Application.Statistic">
     <configuration name="ConsolePrinter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.tekwill.learning.io.writing.ConsolePrinter" />
       <module name="tekwill-homework" />
@@ -84,15 +82,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Constants" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tekwill.learning.datatypes.Constants" />
-      <module name="tekwill-homework" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="KeyboardReaderWhatIsScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tekwill.learning.io.reading.KeyboardReaderWhatIsScanner" />
+    <configuration name="Statistic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tekwill.learning.testing.Statistic" />
       <module name="tekwill-homework" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -105,8 +96,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Testing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tekwill.learning.testing.Testing" />
+    <configuration name="StatisticsPrompter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tekwill.learning.io.StatisticsPrompter" />
+      <module name="tekwill-homework" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TableFromPrintf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tekwill.learning.io.TableFromPrintf" />
       <module name="tekwill-homework" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -114,18 +112,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Statistics" />
-      <item itemvalue="Application.Constants" />
-      <item itemvalue="Application.KeyboardReaderWhatIsScanner" />
       <item itemvalue="Application.ConsolePrinter" />
-      <item itemvalue="Application.Testing" />
+      <item itemvalue="Application.TableFromPrintf" />
+      <item itemvalue="Application.StatisticsPrompter" />
+      <item itemvalue="Application.Statistic" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Testing" />
-        <item itemvalue="Application.Constants" />
-        <item itemvalue="Application.ConsolePrinter" />
+        <item itemvalue="Application.Statistic" />
+        <item itemvalue="Application.TableFromPrintf" />
+        <item itemvalue="Application.StatisticsPrompter" />
         <item itemvalue="Application.Statistics" />
-        <item itemvalue="Application.KeyboardReaderWhatIsScanner" />
+        <item itemvalue="Application.ConsolePrinter" />
       </list>
     </recent_temporary>
   </component>
@@ -153,7 +151,9 @@
     <MESSAGE value="Constants Ready" />
     <MESSAGE value="Constants" />
     <MESSAGE value="Scanner&amp;Printer" />
-    <option name="LAST_COMMIT_MESSAGE" value="Scanner&amp;Printer" />
+    <MESSAGE value="Cool" />
+    <MESSAGE value="testing" />
+    <option name="LAST_COMMIT_MESSAGE" value="testing" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
