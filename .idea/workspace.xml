@@ -23,11 +23,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c63a1ac-3b39-4ca2-ae47-f5b70fd91038" name="Default Changelist" comment="Statistic is fun">
-      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/io/StatisticsPrompter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/io/TableFromPrintf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/testing/StatisticsHolderDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/datatypes/operators/AmountDollarsAndCentsWithPercent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/datatypes/operators/BalanceOnALoan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/datatypes/operators/CarFuelGallonLitersPe100Km.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/datatypes/operators/ComputesTheVolumeOfASphere.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/datatypes/operators/ConverterBMI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/datatypes/operators/ConverterLatitudeDecimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/datatypes/operators/ConvertsHeightToFeetAndInches.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/datatypes/operators/HowToPayTheAmountMoreComfortably.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/datatypes/operators/PopulationInThePercent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/datatypes/operators/ProgramConsumptionFigureGasoline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/datatypes/operators/SecondDaysHoursMinutesSeconds.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tekwill/learning/datatypes/Statistics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tekwill/learning/datatypes/Statistics.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/tekwill/learning/testing/Testing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tekwill/learning/testing/Testing.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,56 +81,56 @@
       <recent name="com.tekwill.learning.basics.datatypes" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Statistic">
-    <configuration name="ConsolePrinter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tekwill.learning.io.writing.ConsolePrinter" />
+  <component name="RunManager" selected="Application.BalanceOnALoan">
+    <configuration name="AmountDollarsAndCentsWithPercent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tekwill.learning.datatypes.operators.AmountDollarsAndCentsWithPercent" />
       <module name="tekwill-homework" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Statistic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tekwill.learning.testing.Statistic" />
+    <configuration name="BalanceOnALoan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tekwill.learning.datatypes.operators.BalanceOnALoan" />
       <module name="tekwill-homework" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Statistics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tekwill.learning.datatypes.Statistics" />
+    <configuration name="HowToPayTheAmountMoreComfortably" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tekwill.learning.datatypes.operators.HowToPayTheAmountMoreComfortably" />
       <module name="tekwill-homework" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StatisticsPrompter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tekwill.learning.io.StatisticsPrompter" />
+    <configuration name="SecondDaysHoursMinutesSeconds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tekwill.learning.datatypes.operators.SecondDaysHoursMinutesSeconds" />
       <module name="tekwill-homework" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TableFromPrintf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tekwill.learning.io.TableFromPrintf" />
+    <configuration name="Testing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tekwill.learning.testing.Testing" />
       <module name="tekwill-homework" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Statistics" />
-      <item itemvalue="Application.ConsolePrinter" />
-      <item itemvalue="Application.TableFromPrintf" />
-      <item itemvalue="Application.StatisticsPrompter" />
-      <item itemvalue="Application.Statistic" />
+      <item itemvalue="Application.Testing" />
+      <item itemvalue="Application.SecondDaysHoursMinutesSeconds" />
+      <item itemvalue="Application.BalanceOnALoan" />
+      <item itemvalue="Application.HowToPayTheAmountMoreComfortably" />
+      <item itemvalue="Application.AmountDollarsAndCentsWithPercent" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Statistic" />
-        <item itemvalue="Application.TableFromPrintf" />
-        <item itemvalue="Application.StatisticsPrompter" />
-        <item itemvalue="Application.Statistics" />
-        <item itemvalue="Application.ConsolePrinter" />
+        <item itemvalue="Application.BalanceOnALoan" />
+        <item itemvalue="Application.HowToPayTheAmountMoreComfortably" />
+        <item itemvalue="Application.AmountDollarsAndCentsWithPercent" />
+        <item itemvalue="Application.Testing" />
+        <item itemvalue="Application.SecondDaysHoursMinutesSeconds" />
       </list>
     </recent_temporary>
   </component>
@@ -153,7 +160,10 @@
     <MESSAGE value="Scanner&amp;Printer" />
     <MESSAGE value="Cool" />
     <MESSAGE value="testing" />
-    <option name="LAST_COMMIT_MESSAGE" value="testing" />
+    <MESSAGE value="StatisticWorldPopulation" />
+    <MESSAGE value="StatisticsPrompter" />
+    <MESSAGE value="TableFromPrintf" />
+    <option name="LAST_COMMIT_MESSAGE" value="TableFromPrintf" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
