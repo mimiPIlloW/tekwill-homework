@@ -23,17 +23,88 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c63a1ac-3b39-4ca2-ae47-f5b70fd91038" name="Default Changelist" comment="Statistic is fun">
-      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/datatypes/operators/AmountDollarsAndCentsWithPercent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/datatypes/operators/BalanceOnALoan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/datatypes/operators/CarFuelGallonLitersPe100Km.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/datatypes/operators/ComputesTheVolumeOfASphere.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/datatypes/operators/ConverterBMI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/datatypes/operators/ConverterLatitudeDecimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/datatypes/operators/ConvertsHeightToFeetAndInches.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/datatypes/operators/HowToPayTheAmountMoreComfortably.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/datatypes/operators/PopulationInThePercent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/datatypes/operators/ProgramConsumptionFigureGasoline.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/datatypes/operators/SecondDaysHoursMinutesSeconds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/hints/basics/accessmodifiers/anotherpackage/OtherPackageOtherClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/hints/basics/accessmodifiers/anotherpackage/OtherPackageSubClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/hints/basics/accessmodifiers/apackage/BaseClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/hints/basics/accessmodifiers/apackage/SamePackageOtherClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/hints/basics/accessmodifiers/apackage/SamePackageSubClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/hints/basics/accessmodifiers/building/House.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/hints/basics/accessmodifiers/building/StoryBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/hints/basics/accessmodifiers/library/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/hints/basics/accessmodifiers/library/CourseBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/hints/basics/accessmodifiers/library/Librarian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/hints/basics/executables/console/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/hints/basics/executables/intellij/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/hints/basics/executables/intellij/SecondDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/hints/basics/interfaces/example/Developer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/hints/basics/interfaces/example/MarathonManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/hints/basics/interfaces/example/Policeman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/hints/basics/interfaces/example/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/hints/basics/nonaccessmodifiers/finalmodifier/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/hints/basics/nonaccessmodifiers/finalmodifier/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/hints/basics/nonaccessmodifiers/finalmodifier/PersonDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/hints/basics/nonaccessmodifiers/finalmodifier/SuperManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/hints/basics/nonaccessmodifiers/staticmodifier/ConstructionSite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/hints/basics/nonaccessmodifiers/staticmodifier/House.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/hints/basics/packages/bar/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/hints/basics/packages/bar/Foo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/hints/basics/packages/bar/PersonDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/hints/basics/packages/foo/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/hints/basics/packages/foo/B1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/hints/basics/packages/foo/B2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/hints/basics/packages/foo/B3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/hints/basics/packages/kingdom/Knight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/hints/basics/packages/nan/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/hints/datatypes/operators/arithmetic/InchesToFeetAndInchesConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/hints/datatypes/operators/arithmetic/LatitudeToDecimalConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/hints/datatypes/operators/arithmetic/OperatorsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/hints/datatypes/operators/arithmetic/SphereVolumeCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/hints/datatypes/operators/arithmetic/SumOfDigitsCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/hints/datatypes/operators/arithmetic/TimeHolder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/hints/datatypes/operators/arithmetic/TimeHolderDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/hints/datatypes/operators/relational/OperatorsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/hints/datatypes/operators/wrappers/WebController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/hints/datatypes/operators/wrappers/WrappersDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/hints/datatypes/references/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/hints/datatypes/references/PersonDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/hints/datatypes/types/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/hints/datatypes/types/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/hints/datatypes/types/GrowthRateStatistic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/hints/datatypes/types/MathConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/hints/datatypes/types/MathConstantsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/hints/datatypes/types/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/hints/datatypes/types/PopulationStatistic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/hints/datatypes/types/Statistics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/hints/datatypes/types/StatisticsHolder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/hints/datatypes/types/StatisticsHolderDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/hints/datatypes/types/enums/DayOfWeek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/hints/datatypes/types/enums/Developer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/hints/datatypes/types/enums/Office.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/hints/datatypes/types/enums/Planet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/hints/datatypes/types/enums/Seniority.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/hints/datatypes/types/enums/SeniorityRoles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/hints/flowcontrol/ifconstruction/DecimalToHexConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/hints/flowcontrol/ifconstruction/Grade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/hints/flowcontrol/ifconstruction/GradeToNumberConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/hints/flowcontrol/ifconstruction/IfDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/hints/flowcontrol/loops/BreakContinueDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/hints/flowcontrol/loops/ForDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/hints/flowcontrol/loops/WhileDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/hints/flowcontrol/switchconstruction/SwitchDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/hints/flowcontrol/ternaryconstruct/TernaryDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/hints/io/reading/KeyboardReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/hints/io/writing/ConsolePrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/datatypes/operators/timekeeper/TimeKeeper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/datatypes/operators/timekeeper/TimeKeeperDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/datatypes/operators/wrapper/DecimalToHex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/testing/CalculateTips.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/testing/ComputeTheVolumeOfACylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/testing/ConverLetterToNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/testing/ConversionCelsiusFahrenheit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/testing/DecimalToHex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/testing/DefinitionsOfNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/testing/GeometryAreaOfAPentagon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/testing/SumTheDigitsInAnInteger.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/tekwill/learning/testing/Testing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tekwill/learning/testing/Testing.java" afterDir="false" />
     </list>
@@ -41,6 +112,9 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -62,11 +136,15 @@
     </option>
   </component>
   <component name="ProjectId" id="1l1SJWRiClXBCKZgWjg0gvwFs1s" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Head_First_Java/Head_First_Java" />
@@ -74,6 +152,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.tekwill.hints.basics.interfaces.example" />
       <recent name="com.tekwill.learning.testing" />
       <recent name="com.tekwill.learning.basics.datatypes" />
     </key>
@@ -81,56 +160,56 @@
       <recent name="com.tekwill.learning.basics.datatypes" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BalanceOnALoan">
-    <configuration name="AmountDollarsAndCentsWithPercent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tekwill.learning.datatypes.operators.AmountDollarsAndCentsWithPercent" />
+  <component name="RunManager" selected="Application.GeometryAreaOfAPentagon">
+    <configuration name="BreakContinue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tekwill.hints.dec30.BreakContinue" />
       <module name="tekwill-homework" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BalanceOnALoan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tekwill.learning.datatypes.operators.BalanceOnALoan" />
+    <configuration name="ConverLetterToNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tekwill.learning.datatypes.wrappers.ConverLetterToNumber" />
       <module name="tekwill-homework" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HowToPayTheAmountMoreComfortably" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tekwill.learning.datatypes.operators.HowToPayTheAmountMoreComfortably" />
+    <configuration name="For" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tekwill.hints.dec30.For" />
       <module name="tekwill-homework" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SecondDaysHoursMinutesSeconds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tekwill.learning.datatypes.operators.SecondDaysHoursMinutesSeconds" />
+    <configuration name="GeometryAreaOfAPentagon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tekwill.learning.datatypes.operators.GeometryAreaOfAPentagon" />
       <module name="tekwill-homework" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Testing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tekwill.learning.testing.Testing" />
+    <configuration name="While" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tekwill.hints.dec30.While" />
       <module name="tekwill-homework" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Testing" />
-      <item itemvalue="Application.SecondDaysHoursMinutesSeconds" />
-      <item itemvalue="Application.BalanceOnALoan" />
-      <item itemvalue="Application.HowToPayTheAmountMoreComfortably" />
-      <item itemvalue="Application.AmountDollarsAndCentsWithPercent" />
+      <item itemvalue="Application.ConverLetterToNumber" />
+      <item itemvalue="Application.BreakContinue" />
+      <item itemvalue="Application.For" />
+      <item itemvalue="Application.While" />
+      <item itemvalue="Application.GeometryAreaOfAPentagon" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BalanceOnALoan" />
-        <item itemvalue="Application.HowToPayTheAmountMoreComfortably" />
-        <item itemvalue="Application.AmountDollarsAndCentsWithPercent" />
-        <item itemvalue="Application.Testing" />
-        <item itemvalue="Application.SecondDaysHoursMinutesSeconds" />
+        <item itemvalue="Application.GeometryAreaOfAPentagon" />
+        <item itemvalue="Application.While" />
+        <item itemvalue="Application.For" />
+        <item itemvalue="Application.BreakContinue" />
+        <item itemvalue="Application.ConverLetterToNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -149,6 +228,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="ChairTablePrinter&#10;FavoriteMovieQuote&#10;ShapePrinter&#10;StringSoutLines" />
     <MESSAGE value="ChairTablePrinter&#10;FavoriteMovieQuote&#10;ShapePrinter&#10;StringSoutLines&#10;BigLettersMISP" />
     <MESSAGE value="ChairTablePrinter&#10;FavoriteMovieQuote&#10;ShapePrinter&#10;StringSoutLines&#10;BigLettersMISP&#10;FightSong" />
@@ -163,8 +243,19 @@
     <MESSAGE value="StatisticWorldPopulation" />
     <MESSAGE value="StatisticsPrompter" />
     <MESSAGE value="TableFromPrintf" />
-    <option name="LAST_COMMIT_MESSAGE" value="TableFromPrintf" />
+    <MESSAGE value="All operators except number 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="All operators except number 4" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.InputMismatchException" package="java.util" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
