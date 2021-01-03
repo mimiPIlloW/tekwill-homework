@@ -94,19 +94,24 @@
       <change afterPath="$PROJECT_DIR$/src/com/tekwill/hints/flowcontrol/ternaryconstruct/TernaryDemo.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/tekwill/hints/io/reading/KeyboardReader.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/tekwill/hints/io/writing/ConsolePrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/datatypes/operators/CalculateTips.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/datatypes/operators/ComputeTheVolumeOfACylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/datatypes/operators/ConversionCelsiusFahrenheit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/datatypes/operators/GeometryAreaOfAPentagon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/datatypes/operators/SumTheDigitsInAnInteger.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/datatypes/operators/timekeeper/TimeKeeper.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/datatypes/operators/timekeeper/TimeKeeperDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/datatypes/operators/wrapper/DecimalToHex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/testing/CalculateTips.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/testing/ComputeTheVolumeOfACylinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/testing/ConverLetterToNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/testing/ConversionCelsiusFahrenheit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/testing/DecimalToHex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/testing/DefinitionsOfNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/testing/GeometryAreaOfAPentagon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/testing/SumTheDigitsInAnInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/loops/DefinitionsOfNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/loops/FatGramCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/loops/IntegerInCodASCII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/loops/PhoneKeyPads.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/loops/PositiveNegativeAverageNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/loops/RomanNumeral.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/loops/TheSpeedOfSound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/loops/VowelAndConsonant.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tekwill/learning/testing/Testing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tekwill/learning/testing/Testing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tekwill/learning/testing/Testing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tekwill-homework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/tekwill-homework.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,6 +150,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Head_First_Java/Head_First_Java" />
@@ -160,56 +169,56 @@
       <recent name="com.tekwill.learning.basics.datatypes" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.GeometryAreaOfAPentagon">
-    <configuration name="BreakContinue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tekwill.hints.dec30.BreakContinue" />
+  <component name="RunManager" selected="Application.FatGramCalculator">
+    <configuration name="FatGramCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tekwill.learning.loops.FatGramCalculator" />
       <module name="tekwill-homework" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConverLetterToNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tekwill.learning.datatypes.wrappers.ConverLetterToNumber" />
+    <configuration name="PhoneKeyPadsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tekwill.learning.loops.PhoneKeyPadsDemo" />
       <module name="tekwill-homework" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="For" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tekwill.hints.dec30.For" />
+    <configuration name="PositiveNegativeAverageNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tekwill.learning.loops.PositiveNegativeAverageNumber" />
       <module name="tekwill-homework" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GeometryAreaOfAPentagon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tekwill.learning.datatypes.operators.GeometryAreaOfAPentagon" />
+    <configuration name="RomanNumeral" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tekwill.learning.loops.RomanNumeral" />
       <module name="tekwill-homework" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="While" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tekwill.hints.dec30.While" />
+    <configuration name="TheSpeedOfSound" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tekwill.learning.loops.TheSpeedOfSound" />
       <module name="tekwill-homework" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ConverLetterToNumber" />
-      <item itemvalue="Application.BreakContinue" />
-      <item itemvalue="Application.For" />
-      <item itemvalue="Application.While" />
-      <item itemvalue="Application.GeometryAreaOfAPentagon" />
+      <item itemvalue="Application.PositiveNegativeAverageNumber" />
+      <item itemvalue="Application.RomanNumeral" />
+      <item itemvalue="Application.PhoneKeyPadsDemo" />
+      <item itemvalue="Application.FatGramCalculator" />
+      <item itemvalue="Application.TheSpeedOfSound" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.GeometryAreaOfAPentagon" />
-        <item itemvalue="Application.While" />
-        <item itemvalue="Application.For" />
-        <item itemvalue="Application.BreakContinue" />
-        <item itemvalue="Application.ConverLetterToNumber" />
+        <item itemvalue="Application.FatGramCalculator" />
+        <item itemvalue="Application.TheSpeedOfSound" />
+        <item itemvalue="Application.PositiveNegativeAverageNumber" />
+        <item itemvalue="Application.PhoneKeyPadsDemo" />
+        <item itemvalue="Application.RomanNumeral" />
       </list>
     </recent_temporary>
   </component>
@@ -244,7 +253,8 @@
     <MESSAGE value="StatisticsPrompter" />
     <MESSAGE value="TableFromPrintf" />
     <MESSAGE value="All operators except number 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="All operators except number 4" />
+    <MESSAGE value="Wrappers Convert letter to number and Decimal to hex" />
+    <option name="LAST_COMMIT_MESSAGE" value="Wrappers Convert letter to number and Decimal to hex" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
