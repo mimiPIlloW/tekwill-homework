@@ -25,21 +25,22 @@
     <list default="true" id="1c63a1ac-3b39-4ca2-ae47-f5b70fd91038" name="Default Changelist" comment="Statistic is fun">
       <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/datatypes/operators/timekeeper/TimeKeeper.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/datatypes/operators/timekeeper/TimeKeeperDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/loops/DayOfWeekName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/loops/DaysInTheMonth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/loops/DefinitionsOfNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/loops/FatGramCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/loops/IntegerInCodASCII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/loops/KilogramsToPoundsAndConversely.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/loops/PhoneKeyPads.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/loops/PositiveNegativeAverageNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/loops/RomanNumeral.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/loops/VowelAndConsonant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/loops/milestokilometers/MilesToKilometers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/loops/milestokilometers/MilesToKilometersDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/loops/speedofsound/TheSpeedOfSound.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/loops/speedofsound/TheSpeedOfSoundDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/loops/CalculatingTheProductOfOddIntegers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/loops/DistanceTraveled.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/loops/FindTheSmallestValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/loops/MultiplicationTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/loops/barchartmethod/BarChart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/loops/barchartmethod/BarChartDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/loops/barchartmethod/mybarchart/BarChartPrintingProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/loops/christmassongmethod/ChristmasSong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/loops/christmassongmethod/ChristmasSongDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/loops/christmassongmethod/mychristmassong/SongChristmas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/loops/factorialsmethod/FactorialsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/loops/factorialsmethod/Fctorials.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/loops/factorialsmethod/myfactorials/FactorialsSolving.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/loops/testing.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tekwill/learning/loops/speedofsound/TheSpeedOfSound.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tekwill/learning/loops/speedofsound/TheSpeedOfSound.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,56 +98,56 @@
       <recent name="com.tekwill.learning.basics.datatypes" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DaysInTheMonth">
-    <configuration name="DaysInTheMonth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tekwill.learning.loops.DaysInTheMonth" />
+  <component name="RunManager" selected="Application.BarChartDemo">
+    <configuration name="BarChartDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tekwill.learning.loops.barchartmethod.BarChartDemo" />
       <module name="tekwill-homework" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MilesToKilometersDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tekwill.learning.loops.milestokilometers.MilesToKilometersDemo" />
+    <configuration name="BarChartPrintingProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tekwill.learning.loops.barchartmethod.mybarchart.BarChartPrintingProgram" />
       <module name="tekwill-homework" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TheSpeedOfSound" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tekwill.learning.loops.speedofsound.TheSpeedOfSound" />
+    <configuration name="DistanceTraveled" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tekwill.learning.loops.DistanceTraveled" />
       <module name="tekwill-homework" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TheSpeedOfSoundDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tekwill.learning.loops.speedofsound.TheSpeedOfSoundDemo" />
+    <configuration name="FactorialsSolving" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tekwill.learning.loops.factorialsmethod.myfactorials.FactorialsSolving" />
       <module name="tekwill-homework" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TraningDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tekwill.learning.TRANING.TraningDemo" />
+    <configuration name="FindTheSmallestValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tekwill.learning.loops.FindTheSmallestValue" />
       <module name="tekwill-homework" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.TheSpeedOfSound" />
-      <item itemvalue="Application.TraningDemo" />
-      <item itemvalue="Application.TheSpeedOfSoundDemo" />
-      <item itemvalue="Application.MilesToKilometersDemo" />
-      <item itemvalue="Application.DaysInTheMonth" />
+      <item itemvalue="Application.DistanceTraveled" />
+      <item itemvalue="Application.FactorialsSolving" />
+      <item itemvalue="Application.BarChartPrintingProgram" />
+      <item itemvalue="Application.FindTheSmallestValue" />
+      <item itemvalue="Application.BarChartDemo" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DaysInTheMonth" />
-        <item itemvalue="Application.MilesToKilometersDemo" />
-        <item itemvalue="Application.TheSpeedOfSoundDemo" />
-        <item itemvalue="Application.TheSpeedOfSound" />
-        <item itemvalue="Application.TraningDemo" />
+        <item itemvalue="Application.BarChartDemo" />
+        <item itemvalue="Application.BarChartPrintingProgram" />
+        <item itemvalue="Application.FindTheSmallestValue" />
+        <item itemvalue="Application.FactorialsSolving" />
+        <item itemvalue="Application.DistanceTraveled" />
       </list>
     </recent_temporary>
   </component>
@@ -184,7 +185,8 @@
     <MESSAGE value="Wrappers Convert letter to number and Decimal to hex" />
     <MESSAGE value="hints" />
     <MESSAGE value="Operators" />
-    <option name="LAST_COMMIT_MESSAGE" value="Operators" />
+    <MESSAGE value="Loops" />
+    <option name="LAST_COMMIT_MESSAGE" value="Loops" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
