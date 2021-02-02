@@ -1,4 +1,4 @@
-package com.tekwill.learning.loops.factorialsmethod.myfactorials;
+package com.tekwill.learning.methods.factorials.loops;
 
 public class FactorialsSolving {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.tekwill.learning.loops.speedofsound;
+package com.tekwill.learning.methods.speedofsound;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package com.tekwill.learning.loops.christmassongmethod.mychristmassong;
+package com.tekwill.learning.methods.christmassong.loops;
 
 public class SongChristmas {
 

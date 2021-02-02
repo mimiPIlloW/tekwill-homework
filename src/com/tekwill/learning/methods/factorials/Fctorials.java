@@ -1,4 +1,4 @@
-package com.tekwill.learning.loops.factorialsmethod;
+package com.tekwill.learning.methods.factorials;
 
 public class Fctorials {
     public static void factorial(int number) {

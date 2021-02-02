@@ -1,8 +1,8 @@
-package com.tekwill.learning.loops.barchartmethod;
+package com.tekwill.learning.methods.barchart;
 
 import java.util.Scanner;
 
-import static com.tekwill.learning.loops.barchartmethod.BarChart.display;
+import static com.tekwill.learning.methods.barchart.BarChart.display;
 
 public class BarChartDemo {
     public static void main(String[] args) {

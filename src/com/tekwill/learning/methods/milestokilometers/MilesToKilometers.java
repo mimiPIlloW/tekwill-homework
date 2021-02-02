@@ -1,4 +1,4 @@
-package com.tekwill.learning.loops.milestokilometers;
+package com.tekwill.learning.methods.milestokilometers;
 
 import java.util.Scanner;
 

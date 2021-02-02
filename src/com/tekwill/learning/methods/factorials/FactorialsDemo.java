@@ -1,8 +1,8 @@
-package com.tekwill.learning.loops.factorialsmethod;
+package com.tekwill.learning.methods.factorials;
 
 import java.util.Scanner;
 
-import static com.tekwill.learning.loops.factorialsmethod.Fctorials.factorial;
+import static com.tekwill.learning.methods.factorials.Fctorials.factorial;
 
 public class FactorialsDemo {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.tekwill.learning.loops.barchartmethod;
+package com.tekwill.learning.methods.barchart;
 
 public class BarChart {
     static void display(int number) {

@@ -1,4 +1,4 @@
-package com.tekwill.learning.loops.christmassongmethod;
+package com.tekwill.learning.methods.christmassong;
 
 public class ChristmasSong {
     public static void printDay(int day) {

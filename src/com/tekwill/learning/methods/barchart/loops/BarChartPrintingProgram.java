@@ -1,4 +1,4 @@
-package com.tekwill.learning.loops.barchartmethod.mybarchart;
+package com.tekwill.learning.methods.barchart.loops;
 
 import java.util.Scanner;
 

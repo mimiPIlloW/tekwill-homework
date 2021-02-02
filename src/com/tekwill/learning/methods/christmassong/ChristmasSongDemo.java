@@ -1,7 +1,7 @@
-package com.tekwill.learning.loops.christmassongmethod;
+package com.tekwill.learning.methods.christmassong;
 
-import static com.tekwill.learning.loops.christmassongmethod.ChristmasSong.printDay;
-import static com.tekwill.learning.loops.christmassongmethod.ChristmasSong.printVerse;
+import static com.tekwill.learning.methods.christmassong.ChristmasSong.printDay;
+import static com.tekwill.learning.methods.christmassong.ChristmasSong.printVerse;
 
 public class ChristmasSongDemo {
     public static void main(String[] args) {
