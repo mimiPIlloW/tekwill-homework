@@ -1,7 +1,7 @@
 package com.tekwill.hints.basics.executables.intellij;
 
 public class Demo {
-    static public void main(String... arguments) {
+    static public void main(String... arguments){
         //command line arguments : ["1", "2", "3", "erte" ]
         //positions                 0     1    2     3
         //arguments[0] = "1"

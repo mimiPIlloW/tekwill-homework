@@ -29,7 +29,7 @@ public class B {
      * @param s needed for something
      * @return needed for something
      */
-    public Integer nothing(String s) {
+    public Integer nothing(String s){
         return null;
     }
 

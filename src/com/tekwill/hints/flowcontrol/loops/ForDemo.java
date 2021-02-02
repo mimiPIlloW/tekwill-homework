@@ -9,6 +9,7 @@ import java.util.List;
 public class ForDemo {
     public static void main(String[] args) {
         int tableOf = 25;
+
         for (int i = 0; i <= 5; i++) {
             System.out.println("i=" + i + " * tableOf=" + tableOf + " is equal " + i * tableOf);
         }
@@ -102,6 +103,15 @@ public class ForDemo {
         stringsList.add("Mike");
         stringsList.add("John");
         stringsList.add("Bob");
+
+        String[] array = new String[]{"fg", "DFG"};
+        for (String a : array) {
+            System.out.println(a);
+        }
+
+        for (int i = 0; i < array.length; i++) {
+            System.out.println(array[i]);
+        }
 
         //traditional for using indexes
         for (int i = 0; i < stringsList.size(); i++) {

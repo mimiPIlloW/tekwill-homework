@@ -23,24 +23,43 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c63a1ac-3b39-4ca2-ae47-f5b70fd91038" name="Default Changelist" comment="Statistic is fun">
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/hints/methods/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/hints/methods/DogDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/hints/methods/File.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/hints/methods/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/hints/methods/RandomDemo.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/datatypes/operators/timekeeper/TimeKeeper.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/datatypes/operators/timekeeper/TimeKeeperDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/loops/CalculatingTheProductOfOddIntegers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/loops/DistanceTraveled.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/loops/FindTheSmallestValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/loops/MultiplicationTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/loops/barchartmethod/BarChart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/loops/barchartmethod/BarChartDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/loops/barchartmethod/mybarchart/BarChartPrintingProgram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/loops/christmassongmethod/ChristmasSong.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/loops/christmassongmethod/ChristmasSongDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/loops/christmassongmethod/mychristmassong/SongChristmas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/loops/factorialsmethod/FactorialsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/loops/factorialsmethod/Fctorials.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/loops/factorialsmethod/myfactorials/FactorialsSolving.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/loops/testing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/hom11/CalculatingTheValueOfPi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/hom11/FindTheHighestScore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/hom11/MenuProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/hom13/NumbersDivisibleBy5And6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/hom13/NumbersDivisibleBy5Or6ButNotBoth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/hom13/conversions_between_feet_and_meters/ConversionsBetweenFeetAndMeters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/hom13/conversions_between_feet_and_meters/ConvertFootMeterMeterFoot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/hom13/display_patterns/DisplayPatterns.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/hom13/display_patterns/DisplayPatternsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/hom15/DisplayFourPatternsUsingLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/hom15/EspGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/hom15/RockPaperScissors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/hom15/display_characters/DisplayCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/hom15/display_characters/DisplayCharactersDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/hom18/ArrayT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/hom18/DemonstrateCancellationErrors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/hom18/HeadsOrTails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/hom18/JavaStatements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/hom18/Summation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/hom20/BusinessCheckISBN13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/hom20/LongestCommonPrefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/hom20/ProcessString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/hom20/ReverseAString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/hom22/CountUppercaseLetters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/hom22/CountVowelsAndConsonants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/hom22/DiceGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/hom22/GuessingGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/hom22/display_matrix_of_0s_and_1s/DisplayMatrixOfOsAnd1S.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/hom22/display_matrix_of_0s_and_1s/DisplayMatrixOfOsAnd1SDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tekwill/learning/loops/speedofsound/TheSpeedOfSound.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tekwill/learning/loops/speedofsound/TheSpeedOfSound.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +104,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Head_First_Java/Head_First_Java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Intro_to_Java" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
@@ -98,7 +117,7 @@
       <recent name="com.tekwill.learning.basics.datatypes" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BarChartDemo">
+  <component name="RunManager" selected="Application.HeadsOrTails">
     <configuration name="BarChartDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.tekwill.learning.loops.barchartmethod.BarChartDemo" />
       <module name="tekwill-homework" />
@@ -113,15 +132,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DistanceTraveled" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tekwill.learning.loops.DistanceTraveled" />
-      <module name="tekwill-homework" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FactorialsSolving" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tekwill.learning.loops.factorialsmethod.myfactorials.FactorialsSolving" />
+    <configuration name="DisplayFourPatternsUsingLoops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tekwill.learning.hom15.DisplayFourPatternsUsingLoops" />
       <module name="tekwill-homework" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -134,20 +146,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="HeadsOrTails" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tekwill.learning.hom18.HeadsOrTails" />
+      <module name="tekwill-homework" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.DistanceTraveled" />
-      <item itemvalue="Application.FactorialsSolving" />
       <item itemvalue="Application.BarChartPrintingProgram" />
       <item itemvalue="Application.FindTheSmallestValue" />
       <item itemvalue="Application.BarChartDemo" />
+      <item itemvalue="Application.DisplayFourPatternsUsingLoops" />
+      <item itemvalue="Application.HeadsOrTails" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HeadsOrTails" />
+        <item itemvalue="Application.DisplayFourPatternsUsingLoops" />
         <item itemvalue="Application.BarChartDemo" />
         <item itemvalue="Application.BarChartPrintingProgram" />
         <item itemvalue="Application.FindTheSmallestValue" />
-        <item itemvalue="Application.FactorialsSolving" />
-        <item itemvalue="Application.DistanceTraveled" />
       </list>
     </recent_temporary>
   </component>
@@ -186,7 +205,9 @@
     <MESSAGE value="hints" />
     <MESSAGE value="Operators" />
     <MESSAGE value="Loops" />
-    <option name="LAST_COMMIT_MESSAGE" value="Loops" />
+    <MESSAGE value="Methods and my loops" />
+    <MESSAGE value="Loops homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="Loops homework" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>

@@ -66,6 +66,13 @@ public class ConsolePrinter {
         System.out.printf("%-20s %-20s\n", s1, s2);
 
         System.out.println("");
+        System.out.printf("%s%20s\n", "X", "X");
+        System.out.printf("%s%20s\n", "X", "X");
+        System.out.printf("%s%20s\n", "X", "X");
+        System.out.printf("%s%20s\n", "X", "X");
+        System.out.printf("%s%20s\n", "X", "X");
+        System.out.printf("%s%20s\n", "X", "X");
+        System.out.printf("%s%s%20s\n", "X", "XXXXXX", "X");
 
         System.out.println();
 
