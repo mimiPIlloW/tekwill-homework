@@ -1,6 +1,7 @@
 package com.tekwill.hints.javaapi.datetime;
 
 import java.time.LocalDate;
+import java.time.LocalDateTime;
 import java.time.Month;
 
 public class LocalDateDemo {
@@ -46,5 +47,12 @@ public class LocalDateDemo {
         System.out.println(l1.withMonth(5));
         System.out.println(l1.withYear(5));
         System.out.println(l1.withDayOfYear(5));
+
+        LocalDateTime localDateTime = l1.atTime(4, 30);
+        System.out.println(localDateTime);
+
+        System.out.println(l1.toEpochDay());
+        System.out.println(LocalDate.of(1970, 2, 2).toEpochDay());
+
     }
 }

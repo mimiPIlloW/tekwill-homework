@@ -1,6 +1,6 @@
 package com.tekwill.hints.methods.building;
 
-import com.tekwill.hints.methods.*;
+import com.tekwill.hints.methods.Puppy;
 
 import java.util.Objects;
 

@@ -11,12 +11,12 @@ public class Task {
     private String title;
     private String description;
     private List<String> tags;
-    private com.tekwill.hints.taskr.domain.TaskPriority priority;
+    private TaskPriority priority;
 
     private LocalDate startDate;
     private LocalDate endDate;
 
-    public Task(String title, String description, List<String> tags, com.tekwill.hints.taskr.domain.TaskPriority priority, LocalDate startDate, LocalDate endDate) {
+    public Task(String title, String description, List<String> tags, TaskPriority priority, LocalDate startDate, LocalDate endDate) {
         this.title = title;
         this.description = description;
         this.tags = tags;
